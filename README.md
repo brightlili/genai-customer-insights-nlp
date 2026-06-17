@@ -1,2 +1,4 @@
 # genai-customer-insights-nlp
-A GenAI-powered solution for mining customer service interactions at QuickServe Meals, leveraging pre-trained NLP models to drive data-informed customer experience improvements.
+Applying Generative AI and pre-trained Transformer models to analyze customer service logs, uncovering insights in sentiment, issue patterns, and response quality to enhance customer interaction strategies.
+
+
